@@ -23,6 +23,7 @@ poster-design-agent/
 ├── references/
 │   ├── brief-intake.md
 │   ├── poster-design-guidelines.md
+│   ├── font-licensing.md
 │   ├── scenario-playbooks.md
 │   └── marketing-compliance.md
 ├── examples/
@@ -47,6 +48,8 @@ poster-design-agent/
 涉及公开投放、促销、金融、支付、分期、租赁、平台合作时读取 `references/marketing-compliance.md`。
 
 最终视觉方案与审核以 `references/poster-design-guidelines.md` 为基础。
+
+含文字的正式稿必须读取 `references/font-licensing.md`，使用许可证可追溯的字体，并记录字体与许可证；AI 直接生成的文字仅作为概念占位。
 
 ## 设计原则
 
